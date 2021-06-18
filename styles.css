@@ -15,4 +15,5 @@ border-width: 5px;
 h1 { color: #0A81AB;
 }
 h3 { color: #0A81AB;
+  text-decoration: underline;
 }
